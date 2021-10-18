@@ -1,4 +1,4 @@
-baseurl = "https://github.com/HataKyoka4242/kh.git"
+baseurl = "https://HataKyoka4242.github.io/kh"
 title = "My Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
